@@ -14,7 +14,7 @@
 ---
 ### Ressources
 
-[wikipedia](https://en.wikipedia.org/wiki/Hilbert_curve#:~:text=The%20Hilbert%20curve%20(also%20known,by%20Giuseppe%20Peano%20in%201890)
+[Wikipedia](https://en.wikipedia.org/wiki/Hilbert_curve#:~:text=The%20Hilbert%20curve%20(also%20known,by%20Giuseppe%20Peano%20in%201890.)
 
 [3blue1brown](https://www.youtube.com/watch?v=3s7h2MHQtxc)
 
