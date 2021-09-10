@@ -3,7 +3,7 @@
 ### Youtube channel : https://www.youtube.com/c/Auctux
 ---
 ### Requirements
-        # Pygame -> pip install pygame
+>Pygame -> pip install pygame
 ---
 ### Controls
         # ESC   ->  to quit ( Close the window )
