@@ -1,7 +1,5 @@
 # Hilbert-Curve-space-filling-with-pygame
 
-### Youtube channel : https://www.youtube.com/c/Auctux
-
 ### Requirements
 >Pygame -> pip install pygame
 
