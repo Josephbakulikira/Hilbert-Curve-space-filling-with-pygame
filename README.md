@@ -16,7 +16,7 @@
 
 
 
->[3blue1brown](https://www.youtube.com/watch?v=3s7h2MHQtxc)
->[CodingTrain](https://www.youtube.com/watch?v=dSK-MW-zuAc)
+- [3blue1brown](https://www.youtube.com/watch?v=3s7h2MHQtxc)
+- [CodingTrain](https://www.youtube.com/watch?v=dSK-MW-zuAc)
 ---
 Enjoy ✌️
