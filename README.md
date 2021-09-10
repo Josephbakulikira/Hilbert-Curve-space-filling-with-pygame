@@ -4,7 +4,7 @@
 
 ### Requirements
 >Pygame -> pip install pygame
----
+
 ### Controls
         # ESC   ->  to quit ( Close the window )
         # R     ->  to restart ( Reset the animation )
