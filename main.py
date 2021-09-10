@@ -2,7 +2,7 @@ import pygame
 from utils import *
 from math import pow
 
-Width, Height = 800, 800
+Width, Height = 1000, 1000
 Resolution = (Width, Height)
 
 pygame.init()
@@ -18,7 +18,7 @@ s = 6
 n = int(pow(2, s))
 t = n * n 
 
-lineThickness= 2
+lineThickness = 2 
 
 Hilbert = [None for i in range(t)]
 
@@ -27,12 +27,19 @@ for i in range(t):
     Hilbert[i] = GetPoint(i, length, s, True)
 
 
-increment_speed = 1
 toggle_color = False
+
+# set timer to the t (timer = t) if you want 
+# to draw the whole fractal without animation
 timer = 1
+increment_speed = 1
+
 run = True
 while run:
     window.fill(Black)
+    clock.tick(fps)
+    frame_rate = int(clock.get_fps())
+    pygame.display.set_caption("Hilbert Curve - FPS : {}".format(frame_rate))
 
     # Handle Events
     for event in pygame.event.get():
